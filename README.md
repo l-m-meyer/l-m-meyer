@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lisamermey@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/ftz7monej06](https://resume.creddle.io/resume/ftz7monej06)
+- 📄 Know about my experiences [in my resume](https://resume.creddle.io/resume/ftz7monej06)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
