@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lisa</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🔭 I’m currently working on [StudeeCloud](https://github.com/studeecloud) an online group study environment that incorporates video and chat RTC, playable sounds, and a pomodoro timer.
+- 🔭 I’m currently working on [StudeeCloud](https://github.com/studeecloud) a collaborative study group environment that seamlessly integrates a range of tools to support staying on track.
 
 - 🌱 I’m currently learning **TypeScript**
 
