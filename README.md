@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lisa</h1>
-<h3 align="center">A passionate full stack web developer from Toronto, ON</h3>
+<h3 align="center">A passionate full stack web developer</h3>
 
 - 🔭 I’m currently working on [StudeeCloud](https://github.com/studeecloud) an online group study environment that incorporates video and chat RTC, playable sounds, and a pomodoro timer.
 
