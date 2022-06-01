@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lisa</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🔭 I’m currently working on [StudeeCloud](https://github.com/studeecloud) a collaborative study group environment that seamlessly integrates a range of tools to support staying on track.
+- 🔭 I’m currently working on mastering **JavaScript**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **GraphQL**
 
 - 📫 How to reach me **lisamermey@gmail.com**
 
