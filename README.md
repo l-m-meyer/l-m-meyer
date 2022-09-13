@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on mastering **JavaScript**
 
-- 🌱 I’m currently learning **TypeScript** and **GraphQL**
+- 🌱 I’m currently learning **Java** and **DSA**
 
 - 📫 How to reach me **lisamermey@gmail.com**
 
