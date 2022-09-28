@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lisa</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🔭 I’m currently working on mastering **JavaScript**
+- 🔭 I’m currently working on building my **portfolio site!**
 
 - 🌱 I’m currently learning **Java** and **DSA**
 
