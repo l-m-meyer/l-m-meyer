@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building my **portfolio site!**
 
-- 🌱 I’m currently learning **Java** and **DSA**
+- 🌱 I’m currently learning **Java** and **DSA** (and reluctantly AWS)
 
 - 📫 How to reach me **lisamermey@gmail.com**
 
