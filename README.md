@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on building my **portfolio site!**
 
+- 👩‍💻 Next project is related to **books**
+
 - 🌱 I’m currently learning **Java** and **DSA**
 
 - 📫 How to reach me **lisamermey@gmail.com**
