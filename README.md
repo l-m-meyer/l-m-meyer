@@ -5,7 +5,7 @@
 
 - 👩‍💻 Next project is related to **books**
 
-- 🌱 I’m currently learning **Java** and **DSA**
+- 🌱 I’m currently learning **Java**, **DSA**, and **GraphQL**
 
 - 📫 How to reach me **lisamermey@gmail.com**
 
