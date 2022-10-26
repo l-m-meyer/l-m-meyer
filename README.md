@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building my **portfolio site!**
 
-- 👩‍💻 Next project is related to **books**
+- 👩‍💻 Next project is related to 📚
 
 - 🌱 I’m currently learning **Java**, **DSA**, and **GraphQL**
 
