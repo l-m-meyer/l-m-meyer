@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **lisamermey@gmail.com**
 
-- 🏫 Courses I'm taking: **How to Code** from UBC and **CS61B - Data Structures** from UC Berkeley
+- 🏫 Courses I'm taking: **CS61B - Data Structures** from UC Berkeley
