@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **lisamermey@gmail.com*
+- 📫 How to reach me **lisamermey@gmail.com**
